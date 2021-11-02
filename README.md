@@ -1,7 +1,5 @@
-# Update version is present at<BR> https://github.com/minernl/Miningcore.WebUI
-
-# Miningcore.UI
-Miningcore UI for the Coinfoundry Miningcore Pool
+# Miningcore.UI by GetBlok.io
+Miningcore UI for the Coinfoundry Miningcore Pool, customized for GetBlok.io
 
 How to install & Configure
 
@@ -23,5 +21,5 @@ How to install & Configure
 
 
 
-My pool website can be found at http://eth02.coinstomine.eu
+Our pool website can be found at https://www.getblok.io
 
