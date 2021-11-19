@@ -1,6 +1,8 @@
 # Miningcore.UI by GetBlok.io
 Miningcore UI for the Coinfoundry Miningcore Pool, customized for GetBlok.io
 
+# NOTE: THIS REPOSITORY IS DEPRECATED AND NO LONGER MAINTAINED.
+
 How to install & Configure
 
 - Download the Miningcore.UI files and save them on your webserver
