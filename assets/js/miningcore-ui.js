@@ -1,6 +1,6 @@
 // config
-var API = 'http://api.getblok.io:4000/api/'; // API address
-var defaultPool = 'ergo1'; // Default Pool ID
+var API = 'https://erg.miningcrypto.live/api/'; // API address
+var defaultPool = 'ergo'; // Default Pool ID
 
 var currentPool = defaultPool;
 
